@@ -44,8 +44,8 @@ export const PaymentModal = ({
               <span className="font-bold">3 ຊົ່ວໂມງ</span>
             </div>
             <div className="flex justify-between items-center pt-2">
-              <span className="text-white/60">ຍອດລວມທังໝົດ</span>
-              <span className="text-3xl font-bold text-green-400">100 ฿</span>
+              <span className="text-white/60">ຍອດລວມທັງໝົດ</span>
+              <span className="text-3xl font-bold text-green-400">100 ກີບ</span>
             </div>
           </div>
 
